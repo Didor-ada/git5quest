@@ -1,3 +1,3 @@
-REMOTE
+LOCAL
 un truc
 un machin
